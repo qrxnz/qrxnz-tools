@@ -1,0 +1,3 @@
+[submodule "qrack"]
+	path = qrack
+	url = git@github.com:qrxnz/qrack.git
